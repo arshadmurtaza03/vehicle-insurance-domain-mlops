@@ -216,5 +216,5 @@ notebook/mongoDB_demo.ipynb
 # Optional: Ignore all notebook checkpoint folders inside the 'notebook' folder
 notebook/.ipynb_checkpoints/
 
-#artifacts
-artifacts/
+#artifact
+artifact/
